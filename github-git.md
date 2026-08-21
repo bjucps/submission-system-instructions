@@ -1,14 +1,14 @@
-# Instructions for Github Classroom
+# Instructions for Github Assignments (Terminal Interface)
 
-### Accessing the Assignment
+### Finding the Repository
 
-Click the invitation URL provided to you by your professor.  A sample assignment for you to follow along with is provided [here](https://classroom.github.com/a/BCvKee2u).
+Your assignment instructions will tell you how to find your personal per-assignment repository.
 
-![Github Invite Screen](images/git/github-invite-screen.png)
+E.g., if the assignment repository name pattern is `bjucpstest/test-assignment-LOGIN` and your BJU student login is `bjone123`, your repository name would be `bjucpstest/test-assignment-bjone123`.
 
-If you get an error message, wait a few seconds, then click `Retry Repository Setup`.  If it still fails, contact emcgee@bju.edu.  If everything works, click the URL for your new repository.
+To see that repository via the GitHub web interface in your browser, you would navigate to the URL formed by putting `https://github.com/` in front of the repository name above.
 
-![Github Invite Finished](images/git/github-invite-finished.png)
+E.g., `https://github.com/bjucpstest/test-assignment-bjone123`.
 
 ### Cloning an Assignment Repository
 
