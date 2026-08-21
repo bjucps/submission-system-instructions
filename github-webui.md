@@ -1,4 +1,4 @@
-# Instructions for GitHub Assignments
+# Instructions for GitHub Assignments (Web Interface)
 
 ### Finding the Repository
 
