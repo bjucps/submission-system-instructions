@@ -1,26 +1,16 @@
-# Instructions for Github Classroom
+# Instructions for GitHub Assignments
 
-### Accessing the Assignment
+### Finding the Repository
 
-Click the invitation URL provided to you by your professor.  A sample assignment for you to follow along with is provided [here](https://classroom.github.com/a/YTi02KpP).
+Your assignment instructions will tell you how to find your personal per-assignment repository.
 
-First, authorize Github classroom to access your account.
+E.g., if the assignment repository name pattern is `bjucpstest/test-assignment-LOGIN` and your BJU student login is `bjone123`, your repository name would be `bjucpstest/test-assignment-bjone123`.
 
-![Github Invite Screen](images/webui/github-authorize.png)
+To see that repository via the GitHub web interface in your browser, you would navigate to the URL formed by putting `https://github.com/` in front of the repository name above.
 
-The accept the assignment.
+E.g., `https://github.com/bjucpstest/test-assignment-bjone123`.
 
-![Github Invite Screen](images/webui/github-accept-assignment.png)
-
-You'll need to wait a few moments, then refresh the page.
-
-![Github Wait](images/webui/github-wait.png)
-
-If everything works, you can click the URL to access your new repository.
-
-![Github Invite Finished](images/webui/github-ready.png)
-
-### Updating an Assignment Repository
+### Updating the Repository
 
 Inside the repository, there are one main button you'll use: `Add File`.  Under this button, you'll find an option for creating a new file as well as uploading files.
 
